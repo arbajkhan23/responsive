@@ -263,6 +263,9 @@ header .flot-left > li > a {
   padding: 28px 31px;
   display: inline-block;
 }
+.login-2:hover{
+  background-color: #0e6699;
+}
 .login-2 {
   background-color: #23a6f0;
   padding: 18px 15px;
